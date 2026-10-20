@@ -1,0 +1,11 @@
+﻿venv/
+.venv/
+__pycache__/
+*.py[cod]
+logs/
+*.log
+data/temp_converted/
+.env
+.env.*
+!.env.example
+.aws/

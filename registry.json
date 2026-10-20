@@ -1,0 +1,162 @@
+{
+  "data/input_docs/meat1.doc::Белая фасоль с говядиной": {
+    "content_hash": "a4375f5acf7268bc1e5dfb533cafd71819fbde7d5ca7e7b0936384a5694d0c87",
+    "last_fetched": "2026-09-25T08:24:46.438260",
+    "raw_path": "data\\raw\\doc\\ad5a7a02f3cdfe41.txt"
+  },
+  "data/input_docs/meat1.doc::Фрикадельки с подливой": {
+    "content_hash": "240bce3010748f06ee5dcafbb480e5b149d8fede3b52d1e63eeb5a7eee52fc50",
+    "last_fetched": "2026-09-25T08:24:46.438879",
+    "raw_path": "data\\raw\\doc\\f0f8e629fb7bd5be.txt"
+  },
+  "data/input_docs/meat1.doc::Жареная картошка с мясом и грибами": {
+    "content_hash": "ba338d52d33097d89a292c2e0659ce457dd8a0f9c5476e0e838bdb82b3032c19",
+    "last_fetched": "2026-09-25T08:24:46.439438",
+    "raw_path": "data\\raw\\doc\\499fa1951266c464.txt"
+  },
+  "data/input_docs/meat1.doc::Тушеная свинина с луковым соусом": {
+    "content_hash": "7243dfe8c1ad0d1569fdf05928e0485ad7a88d70d5e7e0fe20c86825236b9783",
+    "last_fetched": "2026-09-25T08:24:46.440064",
+    "raw_path": "data\\raw\\doc\\6759c17c7ecad0f7.txt"
+  },
+  "data/input_docs/meat1.doc::Ячневая каша с мясом": {
+    "content_hash": "63b1cb8a181a28019bbee05db431700a5042b393b43c6361748138ef2f651ceb",
+    "last_fetched": "2026-09-25T08:24:46.440573",
+    "raw_path": "data\\raw\\doc\\04b99e05228ffc35.txt"
+  },
+  "data/input_docs/meat2.doc::Куриные биточки с овощами": {
+    "content_hash": "925634cf8ceae15186774f9a3565b1f013b2e15a800457e86dffa8d13f0b76d5",
+    "last_fetched": "2026-09-25T08:24:47.728012",
+    "raw_path": "data\\raw\\doc\\8ce3932fbb77eb9a.txt"
+  },
+  "data/input_docs/meat2.doc::Куриная грудка с запеченным перцем": {
+    "content_hash": "4c157a60b1007f2b56ea5742110ea370f15b0c4cc1e7968f51a748095349a341",
+    "last_fetched": "2026-09-25T08:24:47.728610",
+    "raw_path": "data\\raw\\doc\\7826e03791ef4475.txt"
+  },
+  "data/input_docs/meat2.doc::Курино-овощной пилаф в мультиварке": {
+    "content_hash": "1d6d23300637a356a836f37d33c45169032cfcec9bffd3427010627c5714be57",
+    "last_fetched": "2026-09-25T08:24:47.729202",
+    "raw_path": "data\\raw\\doc\\361c65addbd5776c.txt"
+  },
+  "data/input_docs/meat2.doc::Запеканка из фарша и цветной капусты": {
+    "content_hash": "0cd21ead03f9e86d8751f15eb138c3b9791e4e8b726fbba347081fb1365e2121",
+    "last_fetched": "2026-09-25T08:24:47.729785",
+    "raw_path": "data\\raw\\doc\\ca90942a128bcce1.txt"
+  },
+  "data/input_docs/meat2.doc::Говядина, запеченная с луком в мультиварке": {
+    "content_hash": "6e7990559d5b40abeaaed0b7296303dd513ea142a32e1f63762ed8805604cb9c",
+    "last_fetched": "2026-09-25T08:24:47.730420",
+    "raw_path": "data\\raw\\doc\\1ec624f1821c65bf.txt"
+  },
+  "data/input_docs/meat2.doc::Перловка с куриными крылышками": {
+    "content_hash": "696855724770cd5d4376b0fbd95041276c4c08703e35870a75d074de9419a574",
+    "last_fetched": "2026-09-25T08:24:47.731046",
+    "raw_path": "data\\raw\\doc\\97bbad2d4b0f6e81.txt"
+  },
+  "data/input_docs/salates1.doc::Салат из фасоли с помидорами": {
+    "content_hash": "a4dc071e931d2cefe57e4eeeeac052351cc9dccdf5ddbb7012bb75f4b674b016",
+    "last_fetched": "2026-09-25T08:24:48.973257",
+    "raw_path": "data\\raw\\doc\\3aff9518511a4caf.txt"
+  },
+  "data/input_docs/salates1.doc::Итальянский салат Панцанелла": {
+    "content_hash": "8de69785cc80a5d45688fcc185fcface2bbf669e297fa62131a70a5aeec527c2",
+    "last_fetched": "2026-09-25T08:24:48.973792",
+    "raw_path": "data\\raw\\doc\\8b3ed9a42f7eb1b1.txt"
+  },
+  "data/input_docs/salates1.doc::Мясной салат с зеленым яблоком": {
+    "content_hash": "9660cf0c24685ce7778fd739e87d971096223004c45d63727796d18411be299e",
+    "last_fetched": "2026-09-25T08:24:48.974426",
+    "raw_path": "data\\raw\\doc\\65eba8d8b5c9e409.txt"
+  },
+  "data/input_docs/salates1.doc::Пряный салат с помидорами": {
+    "content_hash": "0f7486415609024307bfdac8b048e267e03c10f528dc8a5555c247c261ae15ae",
+    "last_fetched": "2026-09-25T08:24:48.974975",
+    "raw_path": "data\\raw\\doc\\cb247a95ad0ccb92.txt"
+  },
+  "data/input_docs/salates1.doc::Салат из стебля сельдерея с курицей": {
+    "content_hash": "cc8d6d9a9dee946683cab823828d0cc40362b7b8579976a8074329ede59ef6b6",
+    "last_fetched": "2026-09-25T08:24:48.976096",
+    "raw_path": "data\\raw\\doc\\932c8e23e2285ed9.txt"
+  },
+  "data/input_docs/salates1.doc::Болгарский салат из баклажанов и перца": {
+    "content_hash": "418bcf01a2bb08a9d9428bb5b815ef12ef583e3b52a5ce8ef44f91cf3ae9194c",
+    "last_fetched": "2026-09-25T08:24:48.976641",
+    "raw_path": "data\\raw\\doc\\a55de5faa7f5435b.txt"
+  },
+  "data/input_docs/sweets1.doc::Тарт с черешней": {
+    "content_hash": "7fcd6dac2c2b9bbf06d972ebd82a7df4bceb00c8fb554fa8990e46abf477cd80",
+    "last_fetched": "2026-09-25T08:24:50.126269",
+    "raw_path": "data\\raw\\doc\\b60536dc8c6e253e.txt"
+  },
+  "data/input_docs/sweets1.doc::Смузи с вишней и бананом": {
+    "content_hash": "e0feb338dd3fc51816c404f8b0900ed5eb4de1a929aa949338ea077bd605f4e8",
+    "last_fetched": "2026-09-25T08:24:50.126843",
+    "raw_path": "data\\raw\\doc\\7ea341fe5d8fd5cf.txt"
+  },
+  "data/input_docs/sweets1.doc::Торт из печенья без выпечки": {
+    "content_hash": "5e34842ef290d908f37a1e6da15782a6ac6df2ff8fc6a30cc9f84dd9cba447f4",
+    "last_fetched": "2026-09-25T08:24:50.127416",
+    "raw_path": "data\\raw\\doc\\27fb1ea909c97f65.txt"
+  },
+  "data/input_docs/sweets1.doc::Пирог со сливой": {
+    "content_hash": "e547f610fecfde1922cf80ac995ce1d853e18bce2d2beb9e8da3615b83b694ac",
+    "last_fetched": "2026-09-25T08:24:50.127977",
+    "raw_path": "data\\raw\\doc\\fa20f0433113456f.txt"
+  },
+  "data/input_docs/sweets1.doc::Вареники с вишней": {
+    "content_hash": "84e7e46142e5ee5aa67b67312db1a0837ece981a9ad664603cddb16a8ed66ba8",
+    "last_fetched": "2026-09-25T08:24:50.128466",
+    "raw_path": "data\\raw\\doc\\1175538762047097.txt"
+  },
+  "data/input_docs/sweets1.doc::Кисель из вишни": {
+    "content_hash": "bdaa4a20de65edb505b03779cdca4c6df9fc574d0545c5db53836c2fdba6947e",
+    "last_fetched": "2026-09-25T08:24:50.129018",
+    "raw_path": "data\\raw\\doc\\668a792da5b5806c.txt"
+  },
+  "data/input_docs/vegetables1.doc::Картофельные спирали в духовке": {
+    "content_hash": "7a0c829f2208661c9bce5fb59f40be8939c2acfdfde563263d0d8b853dd595fa",
+    "last_fetched": "2026-09-25T08:24:51.335320",
+    "raw_path": "data\\raw\\doc\\5b0e9ae842ccc2a4.txt"
+  },
+  "data/input_docs/vegetables1.doc::Пицца из кабачков": {
+    "content_hash": "7480396f9c6f437053359980742431c22ad58f2e6fc016ec6406471c916d3586",
+    "last_fetched": "2026-09-25T08:24:51.336067",
+    "raw_path": "data\\raw\\doc\\bd08c835cfc75700.txt"
+  },
+  "data/input_docs/vegetables1.doc::Рис с овощами и пекинской капустой": {
+    "content_hash": "bd5268d2b927db0c3096115e2ed6c4827d36ef63708ba6e49c607d241cd66148",
+    "last_fetched": "2026-09-25T08:24:51.336679",
+    "raw_path": "data\\raw\\doc\\ff46a98c16eb4945.txt"
+  },
+  "data/input_docs/vegetables1.doc::Кабачковое пюре": {
+    "content_hash": "53c9aa2468301d7a0ed5efaa138b334838b0aeb3c24cbae56043a43469f6ba11",
+    "last_fetched": "2026-09-25T08:24:51.337160",
+    "raw_path": "data\\raw\\doc\\91956ca784bc16d9.txt"
+  },
+  "data/input_docs/vegetables1.doc::Шпинат со сливками и сыром": {
+    "content_hash": "22185fa2f65905fa57411acffbef30cfed67d79fa10c6e632c40cfd3795ef7bf",
+    "last_fetched": "2026-09-25T08:24:51.337748",
+    "raw_path": "data\\raw\\doc\\06e12de89dafb45c.txt"
+  },
+  "data/input_docs/vegetables1.doc::Запеченный корень сельдерея с овощами": {
+    "content_hash": "5e0849086cb15186ac0217c7db9eb3bcd00abb6a97e2983e55c557f0537221f1",
+    "last_fetched": "2026-09-25T08:24:51.338260",
+    "raw_path": "data\\raw\\doc\\c0f2342b2ec3655f.txt"
+  },
+  "data/input_docs/meat1.doc::Свиные ребра, тушенные с овощами и зеленью": {
+    "content_hash": "a683b205d9a0d1301ce071d4451b12831be2bc03f29b298054e494d2406b6e45",
+    "last_fetched": "2026-09-25T09:08:05.667521",
+    "raw_path": "data\\raw\\doc\\4c7a41e5a0cfc8c8.txt"
+  },
+  "https://www.russianfood.com/recipes/recipe.php?rid=115170&ref=cro_i_2&token=876186385": {
+    "content_hash": "1ace79201f35496164e5a4eed0e0197019bc42f9b4bc0478a94a31d81bcb6ed4",
+    "last_fetched": "2026-09-25T09:34:10.826078",
+    "raw_path": "data\\raw\\web\\ae3b6f679ca099e5.txt"
+  },
+  "https://m.povar.ru/recipes/morkov_po-koreiski_koreiskaya_morkovka-207.html": {
+    "content_hash": "ba521b3af801c890a81f87fc7b52c62a4579fa0c388d8700f81d82c0849a6aed",
+    "last_fetched": "2026-09-25T09:34:11.807866",
+    "raw_path": "data\\raw\\web\\2e0b46d675cd05a5.txt"
+  }
+}

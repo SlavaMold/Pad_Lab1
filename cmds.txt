@@ -1,0 +1,14 @@
+python -m venv venv
+# Активация:
+venv\Scripts\activate         # Windows
+
+pip install sentence-transformers          # BGE / E5 эмбеддинги
+pip install langchain langchain-community  # загрузчики документов + chunking
+pip install chromadb                        # векторная БД (либо qdrant-client)
+pip install qdrant-client                   # если выбираешь Qdrant
+pip install FlagEmbedding                   # для BGE-reranker
+pip install ragas                           # метрики оценки RAG
+pip install python-dotenv                   # переменные окружения
+pip install unstructured beautifulsoup4     # парсинг PDF/HTML
+
+pip freeze > requirements.txt

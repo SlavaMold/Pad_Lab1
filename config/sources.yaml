@@ -1,0 +1,14 @@
+web_sources:
+  - https://www.russianfood.com/recipes/recipe.php?rid=115170&ref=cro_i_2&token=876186385
+  - https://m.povar.ru/recipes/morkov_po-koreiski_koreiskaya_morkovka-207.html
+  # - https://www.foodnetwork.com/recipes/rachael-ray/pork-chops-with-golden-apple-sauce-recipe-1915826
+
+docx_sources:
+
+
+doc_sources:
+  - data/input_docs/meat1.doc
+  - data/input_docs/meat2.doc
+  - data/input_docs/salates1.doc
+  - data/input_docs/sweets1.doc
+  - data/input_docs/vegetables1.doc
